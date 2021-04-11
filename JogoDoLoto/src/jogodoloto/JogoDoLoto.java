@@ -5,6 +5,9 @@
  */
 package jogodoloto;
 
+import static java.lang.System.out;
+import java.util.Arrays;
+
 /**
  *
  * @author Pedro Gil
@@ -16,8 +19,19 @@ public class JogoDoLoto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(Olá);
-        System.out.println(Teste);
+        System.out.println("Olá");
+        System.out.println("Jogo do Loto");
+        
+        int i, j;
+        int [][] matriz1 = new int[3][9];
+        
+        
+   
+        
+        
+        
+        
+        
         
     }
     
